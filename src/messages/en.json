@@ -1,0 +1,208 @@
+{
+    "navbar": {
+        "links": {
+            "solutions": "Solutions",
+            "whyUs": "Why Us",
+            "vision": "Vision",
+            "impact": "Impact",
+            "contact": "Contact"
+        },
+        "cta": "Start Your Project"
+    },
+    "hero": {
+        "badge": "AI-Driven · Africa-Centric · Future-Focused",
+        "headline": "Engineering Africa's",
+        "headlineAccent": "Intelligent Future",
+        "tagline": "Innovate. Elevate. Empower.",
+        "subheadline": "We build AI-powered digital systems that help businesses scale, automate, and compete globally — while empowering the next generation of African tech talent.",
+        "ctaPrimary": "Start Your Project",
+        "ctaSecondary": "Partner With Us",
+        "scrollLabel": "Scroll to explore"
+    },
+    "problem": {
+        "label": "The Challenge",
+        "title": "The Digital Gap in Emerging Markets",
+        "description": "Many African businesses struggle with outdated systems, manual processes, and limited access to advanced AI solutions. Makuvion bridges that gap by delivering scalable, intelligent software built for growth.",
+        "painPoints": [
+            {
+                "title": "Outdated Systems",
+                "desc": "Legacy infrastructure that cannot scale with growing business demands and modern digital requirements."
+            },
+            {
+                "title": "Manual Processes",
+                "desc": "Time-consuming workflows that drain resources and prevent businesses from focusing on growth and innovation."
+            },
+            {
+                "title": "Limited AI Access",
+                "desc": "Lack of affordable, context-aware AI solutions designed for the unique challenges of African markets."
+            }
+        ]
+    },
+    "solutions": {
+        "label": "Our Expertise",
+        "title": "What We Build",
+        "description": "End-to-end digital solutions designed to transform how African businesses operate and grow.",
+        "categories": [
+            {
+                "title": "AI & Automation",
+                "services": [
+                    "AI Chatbots",
+                    "Workflow Automation",
+                    "Intelligent Business Systems",
+                    "Process Optimization"
+                ]
+            },
+            {
+                "title": "Website Development",
+                "services": [
+                    "Basic Websites",
+                    "Small Business Websites",
+                    "E-Commerce Platforms",
+                    "Web Applications"
+                ]
+            },
+            {
+                "title": "Poster & Design",
+                "services": [
+                    "Poster / Flyer Design",
+                    "Birthday Invitations",
+                    "Custom Invitation Design",
+                    "Event Invitations"
+                ]
+            },
+            {
+                "title": "Innovation & R&D",
+                "services": [
+                    "AI Integrations",
+                    "System Architecture",
+                    "Performance Optimization",
+                    "API & Backend Systems"
+                ]
+            }
+        ]
+    },
+    "whyMakuvion": {
+        "label": "Our Edge",
+        "title": "Why Choose Makuvion",
+        "description": "We combine cutting-edge AI capability with deep African market understanding to deliver solutions that truly matter.",
+        "pillars": [
+            {
+                "title": "AI-First Approach",
+                "desc": "Every solution we deliver is enhanced with artificial intelligence, ensuring smarter systems from day one."
+            },
+            {
+                "title": "Scalable Architecture",
+                "desc": "Systems designed to handle growth seamlessly — from startup to enterprise scale without costly rebuilds."
+            },
+            {
+                "title": "Founder-Led Engineering",
+                "desc": "Direct involvement from leadership in every project ensures quality, accountability, and technical excellence."
+            },
+            {
+                "title": "Africa-Centric Innovation",
+                "desc": "Solutions built with deep understanding of African markets, challenges, and opportunities for digital transformation."
+            }
+        ],
+        "stats": [
+            {
+                "label": "Scalable by Design",
+                "suffix": "∞"
+            },
+            {
+                "label": "Built for Growth",
+                "suffix": "✦"
+            },
+            {
+                "label": "AI-Enhanced",
+                "suffix": "⚡"
+            },
+            {
+                "label": "Impact-Driven",
+                "suffix": "◆"
+            }
+        ]
+    },
+    "vision": {
+        "label": "For Investors & Partners",
+        "title": "Our Long-Term Vision",
+        "paragraphs": [
+            "Makuvion aims to become a leading African AI and software innovation company by combining high-performance engineering with youth development and technology empowerment.",
+            "We are building not just software — but a generation of skilled innovators who will shape the continent's digital future."
+        ],
+        "cta": "Explore Partnership",
+        "highlights": [
+            {
+                "title": "Market Expansion",
+                "desc": "Scaling AI solutions across African markets and beyond"
+            },
+            {
+                "title": "Talent Development",
+                "desc": "Building a pipeline of world-class African engineers"
+            },
+            {
+                "title": "Product Innovation",
+                "desc": "Developing proprietary AI products for emerging market needs"
+            }
+        ]
+    },
+    "youthDev": {
+        "label": "Social Impact",
+        "title": "Developing Tomorrow's Engineers",
+        "description": "Through mentorship, onboarding training, and practical development exposure, we are committed to equipping young developers with the skills required to compete globally. This positions Makuvion as impact-driven.",
+        "highlights": [
+            {
+                "title": "Mentorship Programs",
+                "desc": "One-on-one guidance from experienced engineers to shape career trajectories."
+            },
+            {
+                "title": "Practical Development",
+                "desc": "Real-world project experience building production-grade software from day one."
+            },
+            {
+                "title": "Global Competitiveness",
+                "desc": "Skills training aligned with international standards and industry best practices."
+            }
+        ]
+    },
+    "cta": {
+        "title": "Let's Build Intelligent",
+        "titleAccent": "Systems Together",
+        "description": "Ready to transform your business with AI-powered solutions? Let's start the conversation.",
+        "ctaPrimary": "Book a Consultation",
+        "ctaSecondary": "Explore Partnership"
+    },
+    "contact": {
+        "label": "Get In Touch",
+        "title": "Start a Conversation",
+        "description": "Tell us about your project and let's explore how we can help you build something extraordinary.",
+        "form": {
+            "nameLabel": "Full Name",
+            "namePlaceholder": "Your name",
+            "emailLabel": "Email Address",
+            "emailPlaceholder": "you@company.com",
+            "messageLabel": "Your Message",
+            "messagePlaceholder": "Tell us about your project...",
+            "submitButton": "Send Message",
+            "submittedButton": "✓ Message Sent!",
+            "sendingButton": "Sending...",
+            "errorMessage": "Failed to send. Please try again."
+        },
+        "details": {
+            "title": "Contact Details",
+            "email": "mnc@makuvion.com",
+            "phone": "073 405 7351",
+            "location": "South Africa",
+            "website": "www.makuvion.com"
+        }
+    },
+    "footer": {
+        "companyName": "Makuvion Technologies",
+        "legalName": "Makuvion Technologies (Pty) Ltd",
+        "tagline": "AI-Driven. Africa-Centric. Future-Focused.",
+        "motto": "Innovate. Elevate. Empower.",
+        "description": "Building scalable digital systems, automation solutions, and intelligent software while empowering the next generation of developers.",
+        "quickLinksTitle": "Quick Links",
+        "connectTitle": "Connect",
+        "copyright": "Makuvion Technologies (Pty) Ltd. All rights reserved."
+    }
+}
